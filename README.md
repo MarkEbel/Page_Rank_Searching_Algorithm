@@ -1,4 +1,2 @@
-# Image-retrievel
-# PageRank
-# PageRank
-# PageRank
+# PageRank Algorithm
+Implemented the PageRank algorithm which is was discovered by Google and decided how high pages were ranked on Google, it was decided by a combination of what other websites referenced each other while other search engines were ranked higher if they referenced many good other websites this was not the case with Google who did it by who (other websites) referenced this (the website to list) website.
